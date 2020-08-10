@@ -11,15 +11,11 @@ p {
     margin-left: 25px;
 }
 
+img {
 
-footer {
-    padding: 25px;
-    padding-top: 5px;
-    background: tomato none no-repeat scroll 17px 13px;
-    margin-top: 50px;
-    
-    
 }
+
+
 .borderthings{
     border: 60px solid blue;.
     border-radius: 15px;
@@ -28,10 +24,18 @@ footer {
     padding: 25px;
     padding-top: 0px;
 }
+
+.cuteborder{
+    border:2px solid blue;
+    border-radius: 13px;
+    padding: 25px;
+    display: inline;
+
+}
+
 .intropart{
     style: float: left;
-    border-radius: 50%;
-    width: 150px;
+    border-radius: 50% !important;
 }
 
 .titlething {
@@ -40,7 +44,22 @@ footer {
   
 }
 
-.sociallinks{
-    width: 10px;
+footer {
+    padding: 25px;
+    background: tomato none no-repeat scroll 17px 13px;
+    margin-top: 50px;
+    border: 15px solid blue;.
+    border-radius: 15px;
+    border-image: linear-gradient(322deg, rgba(16,86,107,1) 0%, rgba(255,120,156,1) 100%); 
+    border-image-slice: 1;
+    padding: 25px;
+    padding-top: 0px;
+    
+    
+}
+.sociallinks !important{
+    width: 10% !important;
+    height: auto;
+    style: float: left !important;
     
 }
