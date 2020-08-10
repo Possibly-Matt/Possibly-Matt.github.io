@@ -1,0 +1,46 @@
+
+ body {
+    background: #D0E4F5 none no-repeat scroll 17px 13px;
+    padding: 50px;
+    font-family:'Noto Sans';
+    
+}
+
+p {
+    color: navy;
+    margin-left: 25px;
+}
+
+
+footer {
+    padding: 25px;
+    padding-top: 5px;
+    background: tomato none no-repeat scroll 17px 13px;
+    margin-top: 50px;
+    
+    
+}
+.borderthings{
+    border: 60px solid blue;.
+    border-radius: 15px;
+    border-image: linear-gradient(38deg, rgba(16,86,107,1) 0%, rgba(255,120,156,1) 100%); 
+    border-image-slice: 1;
+    padding: 25px;
+    padding-top: 0px;
+}
+.intropart{
+    style: float: left;
+    border-radius: 50%;
+    width: 150px;
+}
+
+.titlething {
+    color: navy;
+    margin-left: 0px;
+  
+}
+
+.sociallinks{
+    width: 10px;
+    
+}
