@@ -1,14 +1,14 @@
 
  body {
     background: #D0E4F5 none no-repeat scroll 17px 13px;
-    padding: 50px;
+    padding: 2vw;
     font-family:'Noto Sans';
     
 }
 
 p {
     color: navy;
-    margin-left: 25px;
+    margin-left: 2vw;
 }
 
 img {
@@ -17,20 +17,21 @@ img {
 
 
 .borderthings{
-    border: 60px solid blue;.
-    border-radius: 15px;
+    border: 3vw solid blue;.
+    border-radius: 2vw;
     border-image: linear-gradient(38deg, rgba(16,86,107,1) 0%, rgba(255,120,156,1) 100%); 
     border-image-slice: 1;
-    padding: 25px;
-    padding-top: 0px;
+    padding: 3vw;
+    padding-top: 0vw;
 }
 
 .cuteborder{
-    border:2px solid blue;
-    border-radius: 13px;
-    padding: 25px;
-    display: inline;
 
+    border:0.5vw solid blue;
+    border-radius: 2vw;
+    padding: 0.5vw;
+    margin-left: 1vw;
+    display: inline-block
 }
 
 .intropart{
@@ -45,15 +46,16 @@ img {
 }
 
 footer {
-    padding: 25px;
+    
+    padding: 2vw;
     background: tomato none no-repeat scroll 17px 13px;
-    margin-top: 50px;
-    border: 15px solid blue;.
-    border-radius: 15px;
+    margin-top: 5vw;
+    border: 1.5vw solid blue;.
+    border-radius: 3vw;
     border-image: linear-gradient(322deg, rgba(16,86,107,1) 0%, rgba(255,120,156,1) 100%); 
     border-image-slice: 1;
-    padding: 25px;
-    padding-top: 0px;
+    padding: 2vw;
+    padding-top: 0vw;
     
     
 }
