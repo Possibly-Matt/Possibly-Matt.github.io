@@ -15,7 +15,10 @@ img {
 
 }
 
+.pagesthing{
 
+    
+}
 .borderthings{
     border: 3vw solid blue;.
     border-radius: 2vw;
@@ -23,6 +26,7 @@ img {
     border-image-slice: 1;
     padding: 3vw;
     padding-top: 0vw;
+    padding-bottom: 1vw;
 }
 
 .cuteborder{
